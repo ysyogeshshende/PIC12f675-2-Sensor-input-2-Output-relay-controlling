@@ -1,0 +1,50 @@
+[p GLOBOPT AUTOSTATIC IEEE_DBL IEEE_FLT PIC14 PICREGULAR PICMID ]
+[d version 1.1 ]
+[d edition pro ]
+[d chip 12F675 ]
+[d frameptr 0 ]
+"10 C:\Program Files\Microchip\xc8\v2.35\pic\sources\c90\common\sprcadd.c
+[v ___fladd __fladd `(d  1 e 4 0 ]
+"4 C:\Program Files\Microchip\xc8\v2.35\pic\sources\c90\common\Umul8_16.c
+[v __Umul8_16 _Umul8_16 `(ui  1 e 2 0 ]
+"6 C:\Program Files\Microchip\xc8\v2.35\pic\sources\c90\pic\__eeprom.c
+[v ___eecpymem __eecpymem `(v  1 e 1 0 ]
+"39
+[v ___memcpyee __memcpyee `(v  1 e 1 0 ]
+"69 D:\yogesh shende\project\PIC12F675.X\newmain.c
+[v _main main `(v  1 e 1 0 ]
+"219 C:/Program Files/Microchip/MPLABX/v6.00/packs/Microchip/PIC10-12Fxxx_DFP/1.5.61/xc8\pic\include\proc\pic12f675.h
+[v _GPIO GPIO `VEuc  1 e 1 @5 ]
+"565
+[v _CMCON CMCON `VEuc  1 e 1 @25 ]
+"644
+[v _ADCON0 ADCON0 `VEuc  1 e 1 @31 ]
+"728
+[v _OPTION_REG OPTION_REG `VEuc  1 e 1 @129 ]
+"798
+[v _TRISIO TRISIO `VEuc  1 e 1 @133 ]
+"1209
+[v _VRCON VRCON `VEuc  1 e 1 @153 ]
+"1405
+[v _ANSEL ANSEL `VEuc  1 e 1 @159 ]
+"1590
+[v _GP0 GP0 `VEb  1 e 0 @40 ]
+"1593
+[v _GP1 GP1 `VEb  1 e 0 @41 ]
+"1596
+[v _GP2 GP2 `VEb  1 e 0 @42 ]
+"1599
+[v _GP3 GP3 `VEb  1 e 0 @43 ]
+"1602
+[v _GP4 GP4 `VEb  1 e 0 @44 ]
+"1605
+[v _GP5 GP5 `VEb  1 e 0 @45 ]
+"44 D:\yogesh shende\project\PIC12F675.X\newmain.c
+[v _flag1 flag1 `i  1 e 2 0 ]
+"48
+[v _count count `ul  1 e 4 0 ]
+"69
+[v _main main `(v  1 e 1 0 ]
+{
+"130
+} 0
